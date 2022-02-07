@@ -1,0 +1,11 @@
+{
+  "Firebase": {
+    "apiKey": "AIzaSyBxgpONDeeavSolPeRmQWYrrsRHyHU6zUI",
+    "authDomain": "writ-tracker.firebaseapp.com",
+    "projectId": "writ-tracker",
+    "storageBucket": "writ-tracker.appspot.com",
+    "messagingSenderId": "730662841280",
+    "appId": "1:730662841280:web:914ad01e8a8568c5f43625",
+    "measurementId": "G-JTMWZX74PN"
+  }
+}
